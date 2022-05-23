@@ -8,7 +8,6 @@ import java.util.Scanner;
 // View
 public class SalesView extends Validator {
 
-
     String title;
     String name;
     int quantity;
