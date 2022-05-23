@@ -7,7 +7,6 @@ import views.SalesView;
 public class App {
 
     public static void main(String[] args) {
-
         Product model=new Product();
         SalesView view=new SalesView();
         ProductController controller=new ProductController();
