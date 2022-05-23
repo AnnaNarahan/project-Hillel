@@ -12,6 +12,7 @@ public class App {
         SalesView view=new SalesView();
         ProductController controller=new ProductController();
         controller.runApp();
+
         // Здесь создайте экземпляры Model, View и Controller,
         // на основании соответствующих конструкторов.
 //        Product model = создать экземпляр
