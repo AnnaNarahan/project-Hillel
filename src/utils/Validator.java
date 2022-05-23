@@ -14,7 +14,6 @@ public class Validator {
         }
         return str;
     }
-
     // Валидация ввода количества
     public static int validateQuantityInput(Scanner scanner){
         while (!scanner.hasNextInt()) {
